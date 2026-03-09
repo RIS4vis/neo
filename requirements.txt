@@ -1,0 +1,9 @@
+aiohttp
+requests
+beautifulsoup4
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+PyGithub
